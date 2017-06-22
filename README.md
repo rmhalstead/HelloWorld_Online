@@ -1,4 +1,7 @@
 # HelloWorld_Online
+# Rodd Halstead
+Rodd Halstead
+
 Created using GitHub web UI
 
 These is a test of the editor in GitHub Web UI

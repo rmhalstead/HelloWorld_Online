@@ -1,8 +1,5 @@
 # HelloWorld_Online
 # Rodd Halstead
-
-Edited with current version of GitHub (installed from GitHubSetup.exe)
-
 Rodd Halstead
 
 Created using GitHub web UI

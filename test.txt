@@ -3,3 +3,4 @@ This is a text file
 This is line 2 of the text file
 
 Delete everything after line #3
+Add a line #5

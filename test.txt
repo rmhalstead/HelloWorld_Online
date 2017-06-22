@@ -5,3 +5,9 @@ This is a line after a break
 
 Numbered lines deleted
 EOF
+A few more lines added after EOF
+1
+2
+3
+4
+

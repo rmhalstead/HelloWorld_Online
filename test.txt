@@ -3,10 +3,5 @@ This is line 2 of the text file
 
 This is a line after a break
 
-These are some numbered lines
-1
-2
-3
-4
-5
+Numbered lines deleted
 EOF

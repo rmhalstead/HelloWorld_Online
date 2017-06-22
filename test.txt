@@ -1,18 +1,5 @@
+#Test.txt
 This is a text file
 This is line 2 of the text file
 
-This is a line after a break
-
-Numbered lines deleted
-EOF
-A few more lines added after EOF
-
-
-Remove numbered lines
-Add alphabetic lines
-A
-B
-C
-D
-E
-
+Delete everything after line #3
